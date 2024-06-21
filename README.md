@@ -1,10 +1,14 @@
-Boas vindas ao meu perfil 💙💙
+Boas vindas ao meu perfil 
+
 Meu nome é João Victor Lima
 
 Estou estudando na Alura
+
 Estou me desenvolvendo na linguagem JavaScript
+
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
-Você pode entrar em contato comigo 📫
+
+Você pode entrar em contato comigo pelo email abaixo 🙏🏼
 
 00001097120843sp@al.educacao.sp.gov.br 
 
