@@ -1,14 +1,14 @@
-Boas vindas ao meu perfil 
+Boas vindas ao meu perfil 😃 
 
-Meu nome é **João Victor Lima**
+Meu nome é **João Victor Lima** 😸
 
-Estou estudando na **Alura**
+Estou estudando na **Alura** 😶‍🌫️
 
 Gosto de jogos, animes, filmes, heavy metal e de futebol ⚽ 
 
-Estou me desenvolvendo na linguagem JavaScript
+Estou me desenvolvendo na linguagem JavaScript 👺
 
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos! 😻
 
 Você pode entrar em contato comigo pelo email abaixo 🙏🏼
 
